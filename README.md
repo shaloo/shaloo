@@ -1,4 +1,4 @@
-## Hi there 👋
+##  👋 Building stuff worth writing; writing stuff worth reading.✍️
 
 <!--
 **shaloo/shaloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

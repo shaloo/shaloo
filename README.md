@@ -7,7 +7,7 @@
 
 |  Tooling   | Deliverables | Portfolio |
 | :--- | :--- | :--- |
-| Markdown, Python, Mkdocs, Docusaurus, Mintlify, GitBook, Sandpack, Codesandbox, Chatbase AI, Netlify | Developer Docs, APIs | [Arcana Network](https://docs.arcana.network) |
+| Markdown, Python, Mkdocs, Docusaurus, Mintlify, GitBook, Sandpack, Codesandbox, Chatbase AI, Netlify | Developer Docs, APIs | [Arcana Network]([Arcana Network SDK Documentation](https://shaloo.github.io/docs.arcana/)) |
 | Hugo | Website content: Ecosystem Tabs (*below 'Try Numpy' section*), [Case Studies]([Numpy.org](https://github.com/numpy/numpy.org/commit/b01153b19e356186df52dc193d44e864921499b2)) | [Numpy.org](https://numpy.org) |
 | Restructured Text, Python, Sphinx, ReadTheDocs | User Docs | [GenPipes](https://genpipes.readthedocs.io/) |
 | Medium, Markdown | Blog Post | [EIP-7702](https://medium.com/@shaloo.shalini/eip-7702-t5tymk-tdiitd-4168a8352836) |

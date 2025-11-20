@@ -7,6 +7,7 @@
 
 |  Tooling   | Deliverables | Portfolio |
 | :--- | :--- | :--- |
+| Material for Mkdocs, Vale, Netlify |Research, Product DX, CX, UX Strategy | [Web3 User Personas](https://web3-user-personas.netlify.app) |
 | Markdown, Python, Mkdocs, Docusaurus, Mintlify, GitBook, Sandpack, Codesandbox, Chatbase AI, Netlify | Developer Docs, APIs | [Arcana Network SDK Documentation](https://shaloo.github.io/docs.arcana/) |
 | Hugo | Website content: Ecosystem Tabs (*below 'Try Numpy' section*), [Case Studies]([Numpy.org](https://github.com/numpy/numpy.org/commit/b01153b19e356186df52dc193d44e864921499b2)) | [Numpy.org](https://numpy.org) |
 | Restructured Text, Python, Sphinx, ReadTheDocs | User Docs | [GenPipes](https://genpipes.readthedocs.io/) |
